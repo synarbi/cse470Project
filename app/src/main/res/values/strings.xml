@@ -1,0 +1,47 @@
+<resources>
+
+    <!--    App Components-->
+    <string name="conti_bt">Continue</string>
+    <string name="news_bt">Maps</string>
+    <string name="fix_bt">Nearest Places</string>
+    <string name="sta_bt">Recommended</string>
+    <string name="tran_bt">Book Transport</string>
+
+
+    <!--    App Info-->
+    <string name="app_name">Lets Go</string>
+    -
+
+
+
+
+
+    <string-array name="places">
+        <item>Dhaka</item>
+        <item>Barisal</item>
+        <item>Comilla</item>
+        <item>Khulna</item>
+        <item>Sylhet</item>
+        <item>Rangpur</item>
+        <item>Maymensingh</item>
+        <item>Rajshahi</item>
+        <item>Bagerhat</item>
+        <item>Bandarban</item>
+        <item>Khagrachori</item>
+    </string-array>
+
+    <string-array name="hotels">
+        <item>Bandarban</item>
+        <item>Barisal</item>
+        <item>Chittagong</item>
+        <item>Khagrachori</item>
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Maymensingh</item>
+        <item>Rajshahi</item>
+    </string-array>
+
+
+
+
+</resources>
